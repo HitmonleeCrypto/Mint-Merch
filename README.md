@@ -102,6 +102,8 @@ One of the great features of using Solana Pay is that we will have transaction h
   <b>Order Fulfillment:</b>
 </div>
 
+<br>
+
   <b>Merchandise Creation:</b>
 
 As we launch our business, we will leverage Printful's in-house embroidery and print-on-demand services (valued at over $1B) to ensure each piece of merch meets the highest quality standards. By using Printful, we can provide quick fulfillment and consistent product quality.
@@ -120,6 +122,8 @@ No worries, we ship internationally too! Your product is custom-made when you or
   <b>Customer Service:</b>
 </div>
 
+<br>
+
   <b>Customer Solutions:</b>
 
 The Mint Merch team will be here to resolve any issues or questions about crypto merch received from our customers.
@@ -131,9 +135,11 @@ When teams partner with Mint Merch, we will utilize designs pre-created by their
 Additionally, we can order samples, model them locally, sell them at events, and create high-quality digital content for social media and project engagement.
 
 <div align="center">
-  <b>Low-Hanging Fruit for Future Progressions:</b>
+  <b>Low-Hanging Fruit for Future Growth:</b>
 </div>
-.
+
+<br>
+
 <b>More Marketplaces:</b>
 
 Our team has nearly a decade of e-commerce experience, which we can leverage to get more eyes on our designs across established marketplaces like IG Shop, FB Shop, TikTok Shop, Amazon, Walmart, and more.
@@ -148,12 +154,14 @@ By attending events like Consensus, Breakpoint, Permissionless, EthDenver, and o
   <b>Interesting Future Ideas to Explore:</b>
 </div>
 
-  <b>Soul-bound Merch NFTs:</b>
+<br>
+
+<b>Soul-bound Merch NFTs:</b>
 
 Inspired by the Solana Saga soul-bound NFT that came with each Solana Saga phone, we would automate the sending of cNFT's to each customer who checks out using Solana Pay and purchases merch from the respective community. 
 The goal is to commemorate their unique purchase forever, rewarding them with OG status, potential rewards, potential airdrops, and more.
 
-  <b>Verified Merch NFTs:</b>
+<b>Verified Merch NFTs:</b>
 
 This would ideally apply to low-quantity, high-demand merch items. 
 When a customer purchases a merch item from Mint Merch, they will be airdropped a cNFT “ticket” to redeem for the item purchased and then have two options:
@@ -164,16 +172,22 @@ The benefit with this process is verified merchandise authenticity, ensuring all
 <div align="center">
   Thank you for Reading!!!
 </div>
-.
+
+<br>
+
 <div align="center">
   <i><b><ins>Please vote for us in the Bonkathon if you’d like to see more in the future!</ins></b>
 </i>
 </div>
-.
+
+<br>
+
 <div align="center">
   Follow us on Twitter/X: @HitmonleeCrypto & @MintMerchCo
 </div>
-.
+
+<br>
+
 <div align="center">
   We're always happy to chat about partnerships and future merch opportunities!
 </div>
