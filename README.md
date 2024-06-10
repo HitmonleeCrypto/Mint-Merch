@@ -55,6 +55,9 @@ When a customer purchases an item, we will mint and then send a cNFT to the wall
 
 This process ensures the merchandise <b><ins>cannot be faked</ins></b>, as the minting is verfiable on-chain, the NFC tag UID is unalterable, and the NFC authentication code changes with each scan, making duplication impossible.
 
+<div align="center">
+  <img src="https://cdn.shopify.com/s/files/1/0882/0578/7418/files/Merch_goes_on_Sale_2_480x480.png?v=1718011157" width="240" />
+</div>
 
 <BR>
 
