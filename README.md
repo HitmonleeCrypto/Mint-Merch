@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <b>  -   Follow us on Twitter/X: @MintMerchCo & @HitmonleeCrypto </b>
+  <b>  -   Follow us on Twitter/X: @MintMerchStore & @HitmonleeCrypto </b>
 </div>   
 
   <br>
