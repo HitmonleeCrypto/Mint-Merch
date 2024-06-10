@@ -207,6 +207,36 @@ By attending events like Consensus, Breakpoint, Permissionless, EthDenver, and o
 Inspired by the Solana Saga soul-bound NFT that came with each Solana Saga phone, we would automate the sending of cNFT's to each customer who checks out using Solana Pay and purchases merch from the respective community. 
 The goal is to commemorate their unique purchase forever, rewarding them with OG status, potential rewards, potential airdrops, and more.
 
+<b>Middle Man Merch:</b>
+
+1. Overview
+
+
+For those who have claimed merchandise but wish to resell it, we offer a "middle manning" service to ensure quality and authenticity.
+
+2. Process
+
+Receiving Merchandise: Customers send the merchandise and the redeemed NFT to us for evaluation.
+
+Quality Grading and Authentication: We authenticate the item and assign it a quality grade.
+Once verified, we take high-quality pictures and prepare the item for resale.
+
+3. Issuing a New cNFT
+
+While the item is in our possession, we issue a new cNFT reflecting the item's grade and proof of ownership.
+This cNFT can be transferred if the owner wishes to sell the item.
+
+4. Resale and Proceeds
+
+Upon sale, the proceeds go to the NFT holder.
+We update the metadata of the cNFT to reflect the new ownership.
+The new buyer receives both the original redeemed NFT and the merchandise.
+
+5. Reclassification for New Quality
+
+If the merchandise is still in new condition, we can reclassify it with a new NFT and hold the item until it is sold.
+This service ensures that resold merchandise maintains its authenticity and quality, providing buyers with confidence in their purchase.
+
 <div align="center">
   Thank you for Reading!!!
 </div>
