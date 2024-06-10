@@ -32,11 +32,32 @@ To see the Mint Merch Whitepaper, please continue reading below or visit https:/
 Mint Merch was founded as a community project with a goal to get merch into the hands of crypto enthusiasts and do our part in onboarding the first 1 Billion crypto users on chain. As a seed contribution in the Summer 2024 Bonkathon we are utilizing our team knowledge and experience to bring this idea to life. Merch is much more than just a piece of clothing, it can be a conversation starter, a feeling of meaning, or even a keepsake.
 
 
+<BR>
+
+
 <div align="center">
   <b>Why Mint Merch?:</b>
 </div>
 
 Teams are already making incredible strides in developing their communities and advancing their projects, but imagine having a seamless solution to outsource merch creation. This way, you can concentrate on what truly matters while providing your community with even more reasons to rally behind you.
+
+<br>
+
+<div align="center">
+  <b>Our Innovative Plan to Prevent Couterfeit Merch with Solana:</b>
+</div>
+The global counterfeit market is valued at over <ins>$3 trillion</ins>, causing significant harm to consumers. To combat this, we are introducing verified merchandise using cNFTs, Solana Pay, and Solana. We will utilize NFC tags with advanced security features that generate a new code each time the tag is scanned, preventing duplication by scammers.
+<br>
+<br>
+
+When a customer purchases an item, we will mint and then send a cNFT to the wallet used during checkout with Solana Pay containing detailed information about the item in the metadata. If not initially redeemed, it can be sold on secondary markets to other collectors. Once redeemed, our team will custom-create the merchandise, embed the NFC tag within the merch, update the cNFT metadata with the NFC tags Unique ID, and change cNFT image to “Redeemed.” Upon the item is received, the customer can scan the NFC tag on Mint Merch to quickly verify authenticity and learn more about the Merch history.
+<br>
+
+This process ensures the merchandise <b><ins>cannot be faked</ins></b>, as the minting is verfiable on-chain, the NFC tag UID is unalterable, and the NFC authentication code changes with each scan, making duplication impossible.
+
+
+<BR>
+
 
 <div align="center">
   <b>What Makes Mint Merch Different:</b>
@@ -46,11 +67,17 @@ All merch from Mint Merch is of the highest quality possible. We focus on using 
 
 Our goal with Mint Merch is to provide top-notch merchandise to passionate community members and builders, while making meaningful and consistent contributions to each token that partners with us. Additionally, we reinvest 55% of all profits back into the communities we collaborate with. Let’s discuss how…
 
+<BR>
+
+
 <div align="center">
   <b>How We Give Back:</b>
 </div>
 
 After covering the costs of designs, merchandise, and fulfillment to customers, we use the remaining profit to build a sustainable business while making strong and consistent contributions to each of the unique communities that partner with Mint Merch. 
+
+<BR>
+
 
 <div align="center">
   <b>Here’s how we split the profits:</b>
@@ -92,11 +119,17 @@ Crypto fans will visit MintMerch.co, where they can select merch in their favori
 If the token is not available, they can reach out to us, and we can contact the team to brainstorm some ideas together. 
 Once the customer has found all necessary items, they will proceed to checkout.
 
+<BR>
+
+
   <b><s>Fiat?❌</s> Solana Pay✅</b>
 
 To help onboard the first billion crypto users, we will utilize Solana Pay to accept prominent tokens like BONK, SOL, USDC, and other SPL or Token22 tokens.
 For all users who pay with BONK, we will send 5% of the purchase back to the wallet they paid with (excluding tax).
 One of the great features of using Solana Pay is that we will have transaction history on all customers' wallets that purchased each respective community’s merch. This information can be used for various purposes, such as rewards, potential airdrops, and more. This is yet another way for each community to show their dedication to their crypto passions.
+
+<BR>
+
 
 <div align="center">
   <b>Order Fulfillment:</b>
@@ -104,19 +137,26 @@ One of the great features of using Solana Pay is that we will have transaction h
 
 <br>
 
-  <b>Merchandise Creation:</b>
+<b>Merchandise Creation:</b>
 
 As we launch our business, we will leverage Printful's in-house embroidery and print-on-demand services (valued at over $1B) to ensure each piece of merch meets the highest quality standards. By using Printful, we can provide quick fulfillment and consistent product quality.
 
 In the future, we plan to invest in our own embroidery machines and/or collaborate with local print shops to not only speed up our processes and improve business margins but also enhance customer satisfaction by ensuring faster delivery and more personalized service, enabling us to contribute more to each community!
+- This will be cruicial for expanding our future verfiable merch demands and fullfilment speeds.
 
-  <b>Shipping to US Customers:</b>
+<BR>
+
+
+<b>Shipping to US Customers:</b>
 
 Mint Merch is based in Southern California, USA. Your product is custom-made when you order, so it might take a bit longer to deliver. This helps us reduce overproduction. Thank you for making thoughtful purchasing decisions! Orders to the USA can be completed from the time of order to delivery in 5 to 11 business days.
 
   <b>Shipping to International Customers:</b>
 
 No worries, we ship internationally too! Your product is custom-made when you order, so it might take a bit longer to deliver. This helps us reduce overproduction. Thank you for making thoughtful purchasing decisions! Orders to Europe can be completed from the time of order to delivery in 8 to 15 business days, and other regions in 12 to 24 business days.
+
+<BR>
+
 
 <div align="center">
   <b>Customer Service:</b>
@@ -134,6 +174,9 @@ During the presale, we will also be the first line of support when customers inq
 When teams partner with Mint Merch, we will utilize designs pre-created by their respective communities to craft their merch. We will collaborate with each team to ensure the merch meets their standards and aligns with the brand they are building.
 Additionally, we can order samples, model them locally, sell them at events, and create high-quality digital content for social media and project engagement.
 
+<BR>
+
+
 <div align="center">
   <b>Low-Hanging Fruit for Future Growth:</b>
 </div>
@@ -150,6 +193,9 @@ By expanding our opportunities, we can increase visibility for each brand, leadi
 Live crypto events are fantastic places to engage with the community and allow them to get their hands on merch from their favorite crypto communities!
 By attending events like Consensus, Breakpoint, Permissionless, EthDenver, and other crypto-focused events, we can bring more exposure to each of the projects we sell merch for while networking with teams to expand our Mint Merch product offerings.
 
+<BR>
+
+
 <div align="center">
   <b>Interesting Future Ideas to Explore:</b>
 </div>
@@ -160,14 +206,6 @@ By attending events like Consensus, Breakpoint, Permissionless, EthDenver, and o
 
 Inspired by the Solana Saga soul-bound NFT that came with each Solana Saga phone, we would automate the sending of cNFT's to each customer who checks out using Solana Pay and purchases merch from the respective community. 
 The goal is to commemorate their unique purchase forever, rewarding them with OG status, potential rewards, potential airdrops, and more.
-
-<b>Verified Merch NFTs:</b>
-
-This would ideally apply to low-quantity, high-demand merch items. 
-When a customer purchases a merch item from Mint Merch, they will be airdropped a cNFT “ticket” to redeem for the item purchased and then have two options:
-1. Redeem the item by burning the cNFT or sending the cNFT to us and order the item from our website. We will confirm the transaction and ownership of the cNFT when they check out with the same wallet used for the transaction. 
-2. Hold the merch cNFT to either HODL for a future time or sell it on a secondary market like Tensor/Magic Eden. We would share royalties profits with respective communities as explained prior. 
-The benefit with this process is verified merchandise authenticity, ensuring all parties work with trustworthy clients. 
 
 <div align="center">
   Thank you for Reading!!!
