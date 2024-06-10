@@ -44,7 +44,7 @@ Teams are already making incredible strides in developing their communities and 
 
 All merch from Mint Merch is of the highest quality possible. We focus on using embroidered merchandise wherever possible so that the items have a high value, long-lasting feel. Our team has been involved in the crypto space since 2017, so we understand the nature of crypto, crypto culture, and the natural waves of the market cycles.
 
-Our goal with Mint Merch is to provide top-notch merchandise to passionate community members and builders, while making meaningful and consistent contributions to each token that partners with us. Additionally, we reinvest 60% of all profits back into the communities we collaborate with. Let’s discuss how…
+Our goal with Mint Merch is to provide top-notch merchandise to passionate community members and builders, while making meaningful and consistent contributions to each token that partners with us. Additionally, we reinvest 55% of all profits back into the communities we collaborate with. Let’s discuss how…
 
 <div align="center">
   <b>How We Give Back:</b>
